@@ -1,0 +1,91 @@
+Fretted Synth Audio
+FreeAmp v3.6 ©2007-2010
+frettedsynth@att.net
+www.frettedsynth.com
+
+NOTE TO MULTI CORE PROCESSOR USERS - There is a problem with running multiple instances of FreeAmp on multi processor machines re: duel core, quad core systems. This is a bug with SynthEdit and is being worked on now.
+There is a work-around - Copy and paste the .dll file and rename (example) FA36_Full.dll copy\paste and rename FA36_Full2.dll, FA36_Full3.dll. You may make as many copies as you need instances just give different names to all of them and load them seperate. Sorry about the bug will fix as soon as I can fix.
+
+
+Setup - Hook up your guitar to your soundcard with a line level matching device (DI box, mic preamp). For low latencies a fast ASIO soundcard is required. The level you send to FreeAmp3 is very important to the pre-amp clipping stages and should be as close as possible to 0db input without clipping the inputs analog to digital converter of your soundcard.
+
+Input selector - Used to setup for stereo or mono input. When set to guitar the input is mono and only the left input works. When set to stereo the left and right inputs are combined to mono and level compensated.
+
+Signal flow -
+
+In -> PreGate -> FX1\Pedal -> Amp\Eq\Speakers -> PostGate -> FX2\Rack -> Limiter -> Out
+
+Tip - Use the "CHUB" control to match FreeAmp3 to your guitar. Turn the "CHUB" down if the tone gets muddy or dull sounding when you reduce your guitars volume control. Increase the "CHUB" to fatten up the tone.
+
+Sorry for no manual, just don’t have the time right now.
+
+Amp and misc continuous controllers
+
+Volume -      07
+Noise Gate -  20
+Amp On -      21
+Amp Channel - 22
+Limiter On -  23
+Tap Tempo -   24
+Wah Manual -  25
+Pitch Bend -  26
+Low Eq -      27
+Mid Eq -      28
+High Eq -     29
+Amp Gain -    30
+Amp Cln Vol - 31
+
+FX1 Pedals CC#
+
+Equalizer -  102
+Compressor - 103
+Overdrive -  104
+Wah -        105
+Chorus -     106
+Phaser -     107
+Flanger -    108
+Delay -      109
+Tremolo -    110
+Pitch -      111
+
+FX2 Racks CC#
+
+Parametric - 112
+Compressor - 113
+Chorus -     114
+Phaser -     115
+Flanger -    116
+Delay -      117
+Reverb -     118
+Equalizer -  119
+
+FreeAmp3 License
+
+The Software is provided as-is, without warranty of any kind. Fretted Synth
+(the Author) disclaims all warranties relating to the Software, 
+whether express or implied, including but not limited to any implied 
+warranties of merchantability and fitness for a particular purpose, 
+and all such warranties are expressly and specifically disclaimed. 
+The Author shall not be liable for any indirect, consequential or 
+incidental damages arising out of the use or inability to use 
+the Software even if the Author has been advised of the possibility 
+of such damages or claims. The user of the Software bears all risk 
+as to the quality and performance of the Software.
+
+The Software is Copyright ©2007-2008 Fretted Synth Audio. The Software is not 
+public domain, and is protected by the copyright laws.  You may not sell, 
+sublicense, distribute, rent, lease, modify, translate, convert to another 
+programming language, decompile, or disassemble the Software for any 
+purpose.
+
+Thanks to God for giving everything I needed to complete this project
+
+Thanks to Jeff McClintock for SynthEdit
+
+For 3rd party modules used in FreeAmp3 thanks to: 
+Chris Kerry (www.chriskerry.f9.co.uk), David Haupt, Kelly Lynch, E-Phonic, IK, Marc Lindahl, Rob H, Scoofy, Dan Worrall and AF Phaser ©2003-2004 by Atilla F. attila_fustos@k.ro
+
+For some graphics elements used thanks to: Vera Kinter (ArtVera) Rick Christy (grymmjack)
+
+VST is a trademark of Steinberg Soft- und Hardware GmbH
+

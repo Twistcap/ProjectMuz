@@ -1,0 +1,9 @@
+Version 2.0.2:
+- NadIR:
+  - Added OSX 10.15 Catalina compatibility
+  - Fixed missing presets and IRs in GarageBand
+
+- Emissary:
+  - Added OSX 10.15 Catalina compatibility
+  - Reduced CPU usage
+  - Fixed missing presets in GarageBand
