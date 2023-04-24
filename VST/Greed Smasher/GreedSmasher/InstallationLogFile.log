@@ -1,0 +1,69 @@
+2023-04-23 16:09:58.327   Log opened. (Time zone: UTC-04:00)
+2023-04-23 16:09:58.328   Setup version: Inno Setup version 5.5.9 (a)
+2023-04-23 16:09:58.328   Original Setup EXE: D:\MusiqueProjet\VST\Greed Smasher.exe
+2023-04-23 16:09:58.328   Setup command line: /SL5="$70928,14147258,123392,D:\MusiqueProjet\VST\Greed Smasher.exe" /SPAWNWND=$30972 /NOTIFYWND=$130968 
+2023-04-23 16:09:58.328   Windows version: 10.0.19045  (NT platform: Yes)
+2023-04-23 16:09:58.328   64-bit Windows: Yes
+2023-04-23 16:09:58.328   Processor architecture: x64
+2023-04-23 16:09:58.328   User privileges: Administrative
+2023-04-23 16:09:58.331   64-bit install mode: Yes
+2023-04-23 16:09:58.333   Created temporary directory: C:\Users\Sleduc\AppData\Local\Temp\is-1VTAH.tmp
+2023-04-23 16:11:39.352   Message box (OK):
+                          The folder name cannot include any of the following characters:
+                          
+                          / : * ? " < > |
+2023-04-23 16:11:43.174   User chose OK.
+2023-04-23 16:11:53.104   Starting the installation process.
+2023-04-23 16:11:53.106   Creating directory: D:\Greed Smasher\GreedSmasher
+2023-04-23 16:11:53.111   Directory for uninstall files: D:\Greed Smasher\GreedSmasher
+2023-04-23 16:11:53.111   Creating new uninstall log: D:\Greed Smasher\GreedSmasher\unins000.dat
+2023-04-23 16:11:53.112   -- File entry --
+2023-04-23 16:11:53.113   Dest filename: D:\Greed Smasher\GreedSmasher\unins000.exe
+2023-04-23 16:11:53.113   Non-default bitness: 32-bit
+2023-04-23 16:11:53.115   Time stamp of our file: 2023-04-23 16:09:58.278
+2023-04-23 16:11:53.115   Installing the file.
+2023-04-23 16:11:53.117   Uninstaller requires administrator: Yes
+2023-04-23 16:11:53.118   Successfully installed the file.
+2023-04-23 16:11:53.118   -- File entry --
+2023-04-23 16:11:53.118   Dest filename: D:\Greed Smasher\MGS x86 1.2.dll
+2023-04-23 16:11:53.118   Time stamp of our file: 2017-09-24 13:19:34.000
+2023-04-23 16:11:53.118   Installing the file.
+2023-04-23 16:11:53.227   Successfully installed the file.
+2023-04-23 16:11:53.228   -- File entry --
+2023-04-23 16:11:53.229   Dest filename: D:\Greed Smasher\MGS 1.2.dll
+2023-04-23 16:11:53.229   Time stamp of our file: 2017-09-24 13:19:34.000
+2023-04-23 16:11:53.229   Installing the file.
+2023-04-23 16:11:53.338   Successfully installed the file.
+2023-04-23 16:11:53.338   -- File entry --
+2023-04-23 16:11:53.339   Dest filename: C:\Program Files\Common Files\Avid\Audio\Plug-Ins\MGS 1.2.aaxplugin\Contents\x64\MGS 1.2.aaxplugin
+2023-04-23 16:11:53.339   Time stamp of our file: 2017-09-24 23:04:24.000
+2023-04-23 16:11:53.339   Installing the file.
+2023-04-23 16:11:53.339   Creating directory: C:\Program Files\Common Files\Avid
+2023-04-23 16:11:53.340   Creating directory: C:\Program Files\Common Files\Avid\Audio
+2023-04-23 16:11:53.340   Creating directory: C:\Program Files\Common Files\Avid\Audio\Plug-Ins
+2023-04-23 16:11:53.340   Creating directory: C:\Program Files\Common Files\Avid\Audio\Plug-Ins\MGS 1.2.aaxplugin
+2023-04-23 16:11:53.340   Creating directory: C:\Program Files\Common Files\Avid\Audio\Plug-Ins\MGS 1.2.aaxplugin\Contents
+2023-04-23 16:11:53.340   Creating directory: C:\Program Files\Common Files\Avid\Audio\Plug-Ins\MGS 1.2.aaxplugin\Contents\x64
+2023-04-23 16:11:53.405   Successfully installed the file.
+2023-04-23 16:11:53.405   -- File entry --
+2023-04-23 16:11:53.406   Dest filename: C:\Program Files\Common Files\Avid\Audio\Plug-Ins\MGS 1.2.aaxplugin\PlugIn.ico
+2023-04-23 16:11:53.406   Time stamp of our file: 2014-09-22 18:00:02.000
+2023-04-23 16:11:53.406   Installing the file.
+2023-04-23 16:11:53.411   Successfully installed the file.
+2023-04-23 16:11:53.411   -- File entry --
+2023-04-23 16:11:53.411   Dest filename: D:\Greed Smasher\GreedSmasher\Greed Smasher Manual.pdf
+2023-04-23 16:11:53.411   Time stamp of our file: 2017-06-12 16:12:18.000
+2023-04-23 16:11:53.411   Installing the file.
+2023-04-23 16:11:53.472   Successfully installed the file.
+2023-04-23 16:11:53.474   -- Icon entry --
+2023-04-23 16:11:53.474   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GreedSmasher\Greed Smasher Manual.lnk
+2023-04-23 16:11:53.475   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GreedSmasher
+2023-04-23 16:11:53.475   Creating the icon.
+2023-04-23 16:11:53.479   Successfully created the icon.
+2023-04-23 16:11:53.480   -- Icon entry --
+2023-04-23 16:11:53.480   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GreedSmasher\Un-install GreedSmasher 1.2.lnk
+2023-04-23 16:11:53.481   Creating the icon.
+2023-04-23 16:11:53.484   Successfully created the icon.
+2023-04-23 16:11:53.489   Installation process succeeded.
+2023-04-23 16:11:53.492   Need to restart Windows? No
+2023-04-23 16:11:55.153   Deinitializing Setup.
